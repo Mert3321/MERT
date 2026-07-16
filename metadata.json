@@ -1,0 +1,6 @@
+{
+  "name": "Al-Hikmah Ed",
+  "description": "Modern ve Kapsamlı İslami İlimler ve Arapça Eğitim Platformu",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
